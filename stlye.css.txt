@@ -1,0 +1,82 @@
+body {
+  font-family: "Prompt", sans-serif;
+  margin: 0;
+  background: #f2f6fc;
+  color: #333;
+}
+
+header {
+  background: linear-gradient(135deg, #0078d7, #005fa3);
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 40px 20px;
+  max-width: 900px;
+  margin: auto;
+}
+
+.hero {
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.hero h2 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.btn {
+  display: inline-block;
+  background: #0078d7;
+  color: white;
+  padding: 10px 25px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.btn:hover {
+  background: #005fa3;
+}
+
+.social a {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 15px;
+  background: #0078d7;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.social a:hover {
+  background: #005fa3;
+}
+
+footer {
+  background: #0078d7;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  margin-top: 50px;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: underline;
+}

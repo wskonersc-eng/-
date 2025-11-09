@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ติดต่อ | Wongsakone</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>ติดต่อผม</h1>
+    <nav>
+      <a href="index.html">หน้าแรก</a>
+      <a href="about.html">เกี่ยวกับผม</a>
+      <a href="contact.html">ติดต่อ</a>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>ข้อมูลการติดต่อ</h2>
+      <p>📩 อีเมล: <a href="mailto:Cown238@gmail.com">Cown238@gmail.com</a></p>
+      <p>🌐 เว็บไซต์: <a href="https://wskonersc.info" target="_blank">wskonersc.info</a></p>
+      <p>📸 Instagram: <a href="https://www.instagram.com/wongsakonez" target="_blank">@wongsakonez</a></p>
+      <p>📘 Facebook: <a href="https://www.facebook.com/profile.php?id=100091104643521" target="_blank">วงศ์กร ฯ.</a></p>
+      <p>▶️ YouTube: <a href="https://www.youtube.com/@Wongsakone" target="_blank">ช่องของผม</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Wongsakone | <a href="https://wskonersc.info" target="_blank">wskonersc.info</a></p>
+  </footer>
+</body>
+</html>

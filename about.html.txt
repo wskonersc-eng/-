@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>เกี่ยวกับผม | Wongsakone</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>เกี่ยวกับผม</h1>
+    <nav>
+      <a href="index.html">หน้าแรก</a>
+      <a href="about.html">เกี่ยวกับผม</a>
+      <a href="contact.html">ติดต่อ</a>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>แนะนำตัว</h2>
+      <p>สวัสดีครับ ผม <strong>วงศ์กร</strong> — ผู้สร้างคอนเทนต์และเว็บไซต์ออนไลน์</p>
+      <p>ผมชอบเรียนรู้เทคโนโลยีใหม่ ๆ และแบ่งปันความรู้บนโซเชียลมีเดียต่าง ๆ เช่น Instagram และ YouTube</p>
+      <p>ติดตามผมได้ที่ลิงก์ด้านล่างครับ 👇🏻</p>
+
+      <div class="social">
+        <a href="https://www.instagram.com/wongsakonez" target="_blank">📸 Instagram</a>
+        <a href="https://www.facebook.com/profile.php?id=100091104643521" target="_blank">📘 Facebook</a>
+        <a href="https://www.youtube.com/@Wongsakone" target="_blank">▶️ YouTube</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Wongsakone | <a href="https://wskonersc.info" target="_blank">wskonersc.info</a></p>
+  </footer>
+</body>
+</html>
